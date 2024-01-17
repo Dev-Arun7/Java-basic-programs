@@ -1,0 +1,10 @@
+package j056_Sample;
+
+public class Vehicle
+{
+	String brand;
+	String model;
+	int price;
+	int mileage;
+
+}

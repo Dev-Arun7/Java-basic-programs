@@ -1,0 +1,19 @@
+package j056_Sample;
+
+public class Main
+{
+
+	public static void main(String args[])
+	{
+		
+		Vehicle t = new Vehicle();
+		t.brand = "Tata";
+		t.model = "Punch";
+		t.mileage = 15;
+		t.price = 6;
+		t.detail();
+		
+		
+		
+	}
+}
